@@ -1,2 +1,1 @@
-# Database schema notes
-Some content
+Draft: customer search notes
