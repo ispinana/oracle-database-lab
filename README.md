@@ -4,3 +4,5 @@ Training repository for Oracle Database administration, testing, change manageme
 
 Name: Isabel S. Piñana Alonso
 Professor: Richard Aviles Lopez
+
+See CONTRIBUTING.md for branch and commit convections.
