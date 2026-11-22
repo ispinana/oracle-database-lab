@@ -1,0 +1,8 @@
+WHENEVER SQLERROR EXIT FAILURE
+ALTER SESSION SET CONTAINER=FREEPDB1;
+SET LINESIZE 200 PAGESIZE 100
+SELECT banner_full FROM v$version;
+SHOW CON_NAME
+SELECT instance_name,status FROM v$instance;
+SELECT username,account_status FROM dba_users WHERE username='ALUMNO';
+EXIT
