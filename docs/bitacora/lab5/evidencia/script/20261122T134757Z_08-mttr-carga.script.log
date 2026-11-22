@@ -1,0 +1,25 @@
+
+System altered.
+
+
+ESTIMATED_MTTR ACTUAL_REDO_BLKS
+-------------- ----------------
+	     4		  12084
+
+
+Session altered.
+
+
+20000 rows updated.
+
+
+Commit complete.
+
+
+Session altered.
+
+
+ESTIMATED_MTTR ACTUAL_REDO_BLKS
+-------------- ----------------
+	     4		  30003
+
