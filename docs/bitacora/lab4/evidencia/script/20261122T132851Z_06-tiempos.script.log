@@ -1,0 +1,17 @@
+Adjusting the default value of parameter "parallel_max_servers" from 0 to 1.
+Starting ORACLE instance (normal) (OS id: 38)
+--
+Completed: Pluggable database FREEPDB1 opened read write 
+Completed: ALTER DATABASE OPEN
+--
+2026-11-22T13:27:24.852931+00:00
+Shutting down ORACLE instance (immediate) (OS id: 567)
+--
+2026-11-22T13:27:29.816243+00:00
+Instance shutdown complete (OS id: 567)
+--
+Adjusting the default value of parameter "parallel_max_servers" from 0 to 1.
+Starting ORACLE instance (normal) (OS id: 568)
+--
+Completed: Pluggable database FREEPDB1 opened read write 
+Completed: ALTER DATABASE OPEN
