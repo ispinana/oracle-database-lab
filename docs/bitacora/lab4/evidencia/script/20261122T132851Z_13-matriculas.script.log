@@ -1,0 +1,9 @@
+
+Session altered.
+
+Prediccion previa: con 30 bytes/fila y PCTFREE 10 caben 242 filas/bloque, unos 248 bloques para 60000.
+
+  NUM_ROWS AVG_ROW_LEN	   BLOCKS   PCT_FREE
+---------- ----------- ---------- ----------
+     60000	    30	      370	  10
+
