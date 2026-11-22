@@ -1,0 +1,10 @@
+
+Session altered.
+
+Q9 todas las columnas	       filas=	  20  lecturas l??gicas=     72
+f??sicas=    0	     .2 ms
+plan: COUNT STOPKEY > VIEW > TABLE ACCESS BY INDEX ROWID PEDIDO > INDEX FULL
+SCAN DESCENDING IX_PED_FECHA
+
+PL/SQL procedure successfully completed.
+
