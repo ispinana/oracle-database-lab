@@ -1,0 +1,41 @@
+PRETTY_NAME="Ubuntu 24.04.5 LTS"
+NAME="Ubuntu"
+VERSION_ID="24.04"
+VERSION="24.04.5 LTS (Noble Numbat)"
+VERSION_CODENAME=noble
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=noble
+LOGO=ubuntu-logo
+6.18.58.1-microsoft-standard-WSL2 x86_64
+               total        used        free      shared  buff/cache   available
+Mem:           7.7Gi       1.0Gi       5.2Gi        27Mi       1.6Gi       6.7Gi
+Swap:          2.0Gi          0B       2.0Gi
+12
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdd       1007G  2.3G  954G   1% /
+/usr/bin/git
+/usr/bin/gh
+/usr/bin/curl
+/usr/bin/wget
+/usr/bin/unzip
+/usr/bin/zip
+/usr/bin/tree
+/usr/bin/rsync
+/usr/bin/ncdu
+/usr/bin/jq
+/usr/bin/htop
+/usr/bin/lsof
+/usr/bin/ss
+/usr/bin/dig
+/usr/bin/ping
+/usr/bin/tmux
+/usr/bin/vim
+/usr/bin/nano
+/usr/bin/shellcheck
+chore/3-install-oracle-environment
+/home/belshu/oracle-database-lab

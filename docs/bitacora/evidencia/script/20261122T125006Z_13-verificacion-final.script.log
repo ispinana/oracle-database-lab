@@ -1,0 +1,27 @@
+Docker cliente 29.9.3 / motor 29.9.3
+["container-registry.oracle.com/database/free@sha256:f5a1791bf5628fd1a97e07584ff5ac5537da5021c23e70f5083f48c8fcd6476e"]
+oralab-26ai Up About a minute (healthy) 127.0.0.1:1521->1521/tcp, 127.0.0.1:8181->8181/tcp
+oralab-26ai-data
+1
+
+Session altered.
+
+
+OWNER			 TABLAS
+-------------------- ----------
+ADMIN_ACADEMIA		      3
+ADMIN_CLINICA		      3
+ADMIN_FINTECH		      2
+ADMIN_LOGISTICA 	      3
+ADMIN_RETAIL		      3
+
+
+PL/SQL procedure successfully completed.
+
+/usr/lib/jvm/java-21-openjdk-amd64
+openjdk version "21.0.13.1" 2026-11-17
+OpenJDK Runtime Environment (build 21.0.13.1+2-1-24.04.1-Ubuntu)
+OpenJDK 64-Bit Server VM (build 21.0.13.1+2-1-24.04.1-Ubuntu, mixed mode, sharing)
+SQLcl: Release 26.3.1.0 Production Build: 26.3.1.301.1413
+Archivo privado excluido de Git
+Database Actions HTTP 200

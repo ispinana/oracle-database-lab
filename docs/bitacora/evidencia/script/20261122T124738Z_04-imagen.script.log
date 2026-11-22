@@ -1,0 +1,83 @@
+latest: Pulling from database/free
+482f97b254a7: Pulling fs layer
+3e2dafe7b9cc: Pulling fs layer
+c570216a1684: Pulling fs layer
+962c4b0dd8c2: Pulling fs layer
+997e22fac2ba: Pulling fs layer
+4c555fb2b09f: Pulling fs layer
+4c6b385e71d9: Pulling fs layer
+87e4f9760943: Pulling fs layer
+e8b1dd0ea0e1: Pulling fs layer
+dca363177a5e: Pulling fs layer
+26ec8638b4f1: Pulling fs layer
+bd9ddc54bea9: Pulling fs layer
+ed7f7f5b65df: Pulling fs layer
+f81588dcede7: Pulling fs layer
+6906b6050e19: Pulling fs layer
+0296582eeca7: Pulling fs layer
+35d3eee47923: Pulling fs layer
+ef21fe41ebc1: Pulling fs layer
+886ecf80b75b: Pulling fs layer
+ea3bc46e602f: Pulling fs layer
+1bd1621da2ed: Pulling fs layer
+c5f923b5db01: Pulling fs layer
+e78166e571b1: Pulling fs layer
+497b57fa4d7f: Pulling fs layer
+8cf102412dfb: Pulling fs layer
+61a2f9f3c2aa: Pulling fs layer
+dca363177a5e: Already exists
+26ec8638b4f1: Already exists
+f81588dcede7: Already exists
+ea3bc46e602f: Already exists
+c5f923b5db01: Already exists
+482f97b254a7: Already exists
+c570216a1684: Already exists
+bd9ddc54bea9: Already exists
+4c6b385e71d9: Already exists
+87e4f9760943: Already exists
+ed7f7f5b65df: Already exists
+0296582eeca7: Already exists
+ef21fe41ebc1: Already exists
+4c555fb2b09f: Already exists
+6906b6050e19: Already exists
+35d3eee47923: Already exists
+886ecf80b75b: Already exists
+497b57fa4d7f: Already exists
+8cf102412dfb: Already exists
+61a2f9f3c2aa: Already exists
+1bd1621da2ed: Already exists
+e78166e571b1: Already exists
+962c4b0dd8c2: Already exists
+e8b1dd0ea0e1: Already exists
+997e22fac2ba: Already exists
+3e2dafe7b9cc: Download complete
+482f97b254a7: Pull complete
+3e2dafe7b9cc: Pull complete
+dca363177a5e: Pull complete
+26ec8638b4f1: Pull complete
+4c6b385e71d9: Pull complete
+f81588dcede7: Pull complete
+6906b6050e19: Pull complete
+35d3eee47923: Pull complete
+886ecf80b75b: Pull complete
+497b57fa4d7f: Pull complete
+61a2f9f3c2aa: Pull complete
+1bd1621da2ed: Pull complete
+e78166e571b1: Pull complete
+c570216a1684: Pull complete
+bd9ddc54bea9: Pull complete
+87e4f9760943: Pull complete
+ed7f7f5b65df: Pull complete
+0296582eeca7: Pull complete
+ef21fe41ebc1: Pull complete
+4c555fb2b09f: Pull complete
+e8b1dd0ea0e1: Pull complete
+997e22fac2ba: Pull complete
+ea3bc46e602f: Pull complete
+c5f923b5db01: Pull complete
+8cf102412dfb: Pull complete
+962c4b0dd8c2: Pull complete
+Digest: sha256:f5a1791bf5628fd1a97e07584ff5ac5537da5021c23e70f5083f48c8fcd6476e
+Status: Downloaded newer image for container-registry.oracle.com/database/free:latest
+container-registry.oracle.com/database/free:latest
+["container-registry.oracle.com/database/free@sha256:f5a1791bf5628fd1a97e07584ff5ac5537da5021c23e70f5083f48c8fcd6476e"]
